@@ -27,25 +27,12 @@ I would also like to pursure possible opportunities in embedded systems design, 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+## What I'm doing  
 - I’m currently working on [Stalker](https://github.com/ajpharrelo/Stalker)  
-  
 
 - I’m currently learning **Advanced C#**  
-  
 
 - Message me if you would like to colloborate on a C# or C project  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
