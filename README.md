@@ -9,8 +9,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I’m a aspiring software developer with a passion for learning new technologies and the creation of robust and cool software.
 
@@ -22,9 +20,6 @@ I am striving to learn and become very advanced in all the major systems program
 - Pascal
 
 I would also like to pursure possible opportunities in embedded systems design, because I really enjoyed tinkering with Arduino, ESP32 and Raspberry Pi's !  
-  
-
-<br/>  
 
 
 ## What I'm doing  
