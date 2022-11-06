@@ -19,7 +19,7 @@ I am striving to learn and become very advanced in all the major systems program
 - Swift
 - Pascal
 
-I would also like to pursure possible opportunities in embedded systems design, because I really enjoyed tinkering with Arduino, ESP32 and Raspberry Pi's !  
+I would also like to pursue possible opportunities in embedded systems design, because I really enjoy tinkering with Arduino, ESP32 and Raspberry Pi's !  
 
 
 ## What I'm doing  
