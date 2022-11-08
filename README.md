@@ -25,7 +25,9 @@ I would also like to pursue possible opportunities in embedded systems design, b
 ## What I'm doing  
 - I’m currently working on [Stalker](https://github.com/ajpharrelo/Stalker)  
 
-- I’m currently learning **Advanced C#**  
+- I’m currently learning **Advanced C#** 
+
+- Currently reading [The C Book by Mike Banahan](https://www.amazon.co.uk/Book-Featuring-Ansi-Standard-Instruction/dp/0201544334)
 
 - Message me if you would like to colloborate on a C# or C project  
 
