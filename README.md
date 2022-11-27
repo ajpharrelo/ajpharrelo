@@ -23,9 +23,9 @@ I would also like to pursue possible opportunities in embedded systems design, b
 
 
 ## What I'm doing  
-- I’m currently working on [2FA RFID](https://github.com/ajpharrelo/2FA_RFID)
+- I’m currently not working on a project.
 
-- I’m currently learning **Advanced C#** 
+- I’m currently learning **WPF (Windows presentation format)** 
 
 - Currently reading [The C Book by Mike Banahan](https://www.amazon.co.uk/Book-Featuring-Ansi-Standard-Instruction/dp/0201544334)
 
