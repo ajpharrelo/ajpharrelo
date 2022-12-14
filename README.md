@@ -23,7 +23,7 @@ I would also like to pursue possible opportunities in embedded systems design, b
 
 
 ## What I'm doing  
-- I’m currently working on (PassGen)[https://github.com/ajpharrelo/PassGen]
+- I’m currently working on [PassGen](https://github.com/ajpharrelo/PassGen)
 
 - I’m currently learning **XAML** 
 
