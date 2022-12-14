@@ -23,11 +23,9 @@ I would also like to pursue possible opportunities in embedded systems design, b
 
 
 ## What I'm doing  
-- I’m currently not working on a project.
+- I’m currently working on (PassGen)[https://github.com/ajpharrelo/PassGen]
 
-- I’m currently learning **WPF (Windows presentation format)** 
-
-- Currently reading [The C Book by Mike Banahan](https://www.amazon.co.uk/Book-Featuring-Ansi-Standard-Instruction/dp/0201544334)
+- I’m currently learning **XAML** 
 
 - Message me if you would like to colloborate on a C# or C project  
 
