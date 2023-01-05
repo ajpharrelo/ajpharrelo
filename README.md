@@ -23,7 +23,7 @@ I would also like to pursue possible opportunities in embedded systems design, b
 
 
 ## What I'm doing  
-- I’m currently working on improving my C# skills and knowledge !
+- I’m currently improving my C# skills and knowledge !
 
 - I’m currently learning **XAML** 
 
