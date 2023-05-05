@@ -15,9 +15,6 @@ I’m an aspiring software developer with a passion for learning new technologie
 I am striving to learn and become very advanced in all the major systems programming languages one at a time:
 - C# (Currently)
 - C++
-- Java
-- Swift
-- Pascal
 
 I would also like to pursue possible opportunities in embedded systems design, because I really enjoy tinkering with Arduino, ESP32 and Raspberry Pi's !  
 
