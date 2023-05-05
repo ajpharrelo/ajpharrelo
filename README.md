@@ -9,7 +9,7 @@
 </a>  
   
 
-### Glad to see you here!  
+### About Me
 I’m an aspiring software developer with a passion for learning new technologies and the creation of robust and cool software.
 
 I am striving to learn and become very advanced in all the major systems programming languages one at a time:
