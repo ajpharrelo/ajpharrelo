@@ -17,17 +17,6 @@ I am striving to learn and become advanced in all the major systems programming 
 - C++
 - JavaScript
 
-I would also like to pursue possible opportunities in embedded systems design, because I really enjoy tinkering with Arduino, ESP32 and Raspberry Pi's !  
-
-
-## What I'm doing  
-- I’m currently improving my C# skills and knowledge !
-
-- I’m currently learning **XAML** 
-
-- Message me if you would like to colloborate on a C# or C project  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
